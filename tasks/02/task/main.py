@@ -1,0 +1,5 @@
+print("Purchase amount: 1000")
+print("Status (new/regular/vip): vip")
+print("Promo code: 5869")
+print("Discount: 20%")
+print("Payment: 800.00")
